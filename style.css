@@ -17,7 +17,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 5%;
 }
 
 .cabecalho-lista-item{
@@ -27,7 +27,7 @@ body {
 }
 
 .escola-imagem{
-    width: 10%;
+    width: 5%;
 }
 
 .escola{
@@ -50,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 60px;
+    width: 30px;
 }
 
 .estudante-icone{
